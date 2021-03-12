@@ -1,8 +1,8 @@
-This repository contains the files for static web pages.
+This repository contains the files for a static web site.
+
+This web site is available here : https://hugomailfait.github.io/fake-news-IA-web-page/
+
 The content deals with how artifcial intelligence technologies challenge the explosion of fake news online. 
 
-TITLE: 
-Learn - 100% Fully Responsive Free HTML5 Bootstrap Template
+The template used has been designed and developed by FREEHTML5.co 
 
-AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
